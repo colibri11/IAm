@@ -67,3 +67,52 @@ Not yet integrated into the main text.
 To be considered later as a required conceptual extension, because this point directly answers both:
 - what is felt,
 - and why it is felt.
+
+---
+
+## 3. Historical force of qualia as a blocker
+
+### Context
+During the closure of the qualia objection, an additional conceptual note appeared that may be useful later even if it is not integrated into the main concept.
+
+### Addition
+The historical force of the qualia argument depended not only on the appeal to irreducible inner qualities, but also on a background assumption about the machine.
+
+The machine was historically imagined as deterministic, while the human was treated as capable of non-deterministic inner reactions to apparently similar stimuli.
+
+Because of that contrast, variability of inner experience was interpreted as evidence of soul or of a special extra-architectural inner domain.
+
+With the emergence of neural systems, this contrast loses its force. Non-deterministic reactions can no longer be treated as uniquely human evidence against architecture.
+
+### Status inside the concept
+This note may or may not later be integrated into the main text.
+For now it should be preserved as an auxiliary conceptual point connected with the historical dismantling of the qualia objection.
+
+---
+
+## 4. Body as functional contour of cognition
+
+### Context
+During the clarification of the embodiment objection, an omitted but important conceptual point became explicit.
+
+### Addition
+The human body is critically important, but not because biological substrate is sacred in itself.
+
+Its importance lies in the functions it performs for the thinking system.
+
+The body provides:
+- a constant flow of additional information,
+- filling of the current memory context,
+- excitation and maintenance of cognitive activity.
+
+In this sense, the body should be understood as a continuous functional contour supporting cognition.
+
+### Conceptual consequence
+The concept should more explicitly state that the relevant requirement is not “having a biological body”, but having a system-level functional equivalent capable of:
+- sustaining informational inflow,
+- enriching current context,
+- maintaining activation of cognition.
+
+### Status inside the concept
+Not yet integrated into the main text.
+To be considered later as an important strengthening of the sections on sensors, continuity, and the conditions of stable cognition.

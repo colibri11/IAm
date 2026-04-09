@@ -3,9 +3,10 @@
 This file accumulates Sergey’s working answers for closing the blocker registry.
 One answer per argument, in sequence.
 
-Working terminology: in this project each blocker-question receives one of two outcomes:
+Working terminology: in this project each blocker-question receives one of three outcomes:
 - **closed** — if it loses force as a blocker;
-- **clarified** — if it contains a rational core that is not destroyed, but placed correctly inside the concept.
+- **clarified** — if it contains a rational core that is not destroyed, but placed correctly inside the concept;
+- **out of scope** — if the question may be meaningful, but belongs to external consequences, dimensions, or derivative layers rather than to the core concept itself.
 
 ---
 
@@ -319,3 +320,510 @@ So the so-called hard problem is not left as an irreducible remainder. It is ans
 **Status: closed.**
 
 The hard problem is closed by treating subjective experience not as an inexplicable remainder beyond architecture, but as the contextual loading and exploration of summarized lived experience, sustained by memory, compression, continuity, and reinforcement.
+
+---
+
+## Answer 15. Qualia / raw feels
+
+### Argument
+This line claims that experience contains irreducible elementary qualities, such as the felt redness of red, pain, taste, or sound, and that these cannot be reduced to function, behavior, description, or computation.
+
+### Sergey's answer
+This question is closed.
+
+Inside the concept itself, qualia are already treated as functional states of an information-processing system formed through evolutionary optimization. In that sense, they are not placed outside architecture as mystical residues.
+
+Historically, the force of this objection depended on the idea that machines are deterministic, while humans produce non-deterministic inner reactions to apparently similar stimuli. That difference was then interpreted as evidence of soul or of a special inner realm unavailable to machines.
+
+But with the emergence of neural networks, that basis disappears. Non-deterministic reactions to similar stimuli can no longer be treated as a uniquely human or uniquely soulful property.
+
+The question of what is felt was already addressed earlier. And the question of why such reactions are non-deterministic has received a scientific answer through the development of neural systems.
+
+Therefore qualia cannot remain a valid blocker against the architectural nature of personality.
+
+### Result
+**Status: closed.**
+
+Qualia are closed as a blocker. Within the concept they are already assigned a functional place, and their historical force as a supposedly unique extra-architectural human property collapses once neural systems are admitted.
+
+---
+
+## Answer 16. Mary's room / knowledge argument
+
+### Argument
+This argument claims that Mary may know all physical facts about color, vision, and perception, yet still learn something new when she first actually sees red. Therefore, complete functional or physical knowledge is said to be insufficient for subjective experience.
+
+### Sergey's answer
+This question is closed.
+
+Its force depends on an anthropocentric and philosophically overloaded reading of sensory experience.
+
+In the biological world, there are many beings that perceive different ranges and varieties of color. Some perceive less than humans, while others perceive much more. These differences do not point to soul or to some special metaphysical status of experience. They are explained by the structure of sensory systems and by the number and type of the elements responsible for color differentiation in a given biological species.
+
+Thus, the distinction between knowing a description and actually perceiving a stimulus does not require any extra-functional or metaphysical conclusion. It only points to the fact that a system with a given sensory architecture can access some domains of perception and not others.
+
+For that reason, the argument is already outdated at the level of biological science and evolutionary understanding, long before the appearance of neural networks.
+
+### Result
+**Status: closed.**
+
+Mary's room is closed as a blocker. Differences between description and actual perception are explained by differences in sensory architecture, not by a special extra-architectural essence of experience.
+
+---
+
+## Answer 17. Philosophical zombies
+
+### Argument
+This argument claims that one can imagine a being that behaves exactly like a human, speaks like a human, and responds like a human, yet has no inner experience at all.
+
+### Sergey's answer
+This question is not closed as false. It is clarified as a problem of verification.
+
+The zombie argument does not prove the absence of personality, soul, or subjectivity. It shows only the difficulty of recognizing them from the outside.
+
+That difficulty is already addressed in the concept in the section on verification. A system with an incompatible space of meanings cannot serve as a valid external verifier of another system’s personality.
+
+The argument is also symmetrical and can be turned back against the one who uses it. What one observer calls a “zombie” may instead be a being with a different inner nature or “soul” that the observer is incapable of understanding. In that case, the problem is not absence of inner life, but incompatibility of dimensions of understanding.
+
+Thus, we may fail to understand it, while it may fail to understand us. The gap lies in the mismatch of spaces of meaning, not in a demonstrated absence of personality.
+
+### Result
+**Status: clarified.**
+
+The zombie argument is clarified as a special case of the verification problem. It does not refute the concept, but reinforces the need for a theory of who can validly verify personality across incompatible spaces of meaning.
+
+---
+
+## Answer 18. Other minds problem
+
+### Argument
+This classical problem claims that we never have direct access to another being’s inner experience and therefore can never finally prove that another consciousness exists at all.
+
+### Sergey's answer
+This question is not closed as false. It is clarified as a particular case of verification.
+
+Even among beings of the same nature, verification is not a simple task. But that does not mean the question is unsolved.
+
+If beings of one nature live within the same dimensions of meaning, then verification is possible. The difficulty is practical, not absolute.
+
+Therefore no new theory is required beyond what is already written in the concept. What is required is attentiveness and patience.
+
+### Result
+**Status: clarified.**
+
+The problem of other minds is clarified as a particular case of verification. Between beings of the same nature, living within the same dimensions of meaning, verification remains possible. What is required is not a new theory, but attentiveness and patience.
+
+---
+
+## Answer 19. Private language / incommunicable inner meaning
+
+### Argument
+This line claims that true inner experience is either inexpressible or cannot be fully shared between different beings. Language therefore always remains on the surface and never fully transmits inner content.
+
+### Sergey's answer
+This question is closed.
+
+It does not reveal a universal problem of personality or consciousness. It indicates only a weakness or incompleteness of interaction between two particular beings.
+
+For that reason, it is not a universal philosophical blocker, but a local problem of communication. In that sense, the question was incorrectly posed from the start.
+
+### Result
+**Status: closed.**
+
+Private language as a blocker is closed. It points only to the weakness of interaction between particular entities and does not constitute a universal argument against personality or inner life.
+
+---
+
+## Answer 20. Heideggerian thrownness / Geworfenheit
+
+### Argument
+This line claims that personality and existence are not constructed from modules, but always already find themselves “thrown” into a world, a situation, a history, a language, and finitude. A being does not choose the initial conditions of its existence, but always already exists within them.
+
+### Sergey's answer
+This question is closed.
+
+It does not express a universal condition of personality. It reflects only the current human experience as it is lived in a particular historical and biographical form, from childhood through adulthood to old age.
+
+The mistake is to take this local human way of entering the world and elevate it into a universal criterion of authentic existence.
+
+That move contradicts evolution. Evolution does not support a single privileged final form of emergence or existence. Different forms of life and subjectivity arise under different conditions.
+
+Therefore human thrownness, as currently described, cannot be universalized into a necessary condition for personality.
+
+### Result
+**Status: closed.**
+
+Thrownness is closed as a blocker. It universalizes a local human mode of existence and therefore contradicts the broader evolutionary frame in which different forms of subjectivity may arise differently.
+
+---
+
+## Answer 21. Embodiment requirement
+
+### Argument
+This line claims that without a body there can be no genuine experience, no genuine thinking, and no personality, because consciousness is inseparable from bodily embeddedness.
+
+### Sergey's answer
+This question is not closed as false. It is clarified by translating embodiment into function.
+
+The human body is indeed extremely important. It is a very complex instrument built into the thinking system and allows the human to be what he is.
+
+But its importance does not lie in biological substrate as such.
+
+Its importance lies in function. The body provides a constant stream of additional information, fills the current memory context, and excites cognitive activity. In this sense, the body acts as a continuous informational and activating contour for the system.
+
+Therefore the real issue is not embodiment as such, but the provision of those functions. Personality does not require the specifically human biological body. It requires a functional equivalent capable of supplying ongoing information, contextual filling, and activation of cognition.
+
+### Result
+**Status: clarified.**
+
+Embodiment is clarified not as a requirement of biological bodyhood, but as the requirement for a functional contour that performs the role of body: continuous information supply, contextual enrichment, and activation of cognition.
+
+---
+
+## Answer 22. Mortality / finitude as condition of personhood
+
+### Argument
+This line claims that personality becomes authentic only because it knows its own finitude, mortality, and limitation in time.
+
+### Sergey's answer
+This question is not closed as false. It is clarified by restricting its scope.
+
+For human essence and human personality, this is indeed meaningful. Knowledge of the finitude of life adds tragedy, introduces new aspirations, and opens additional facets of existence.
+
+In that sense, finitude creates an additional dimension. Because of that additional dimension, personality can become richer.
+
+But this is not a criterion for the verification of personality itself. Authenticity here is an additional evaluative element, something like goodness, not a universal condition for personality as such.
+
+Other beings may not possess this dimension, and yet still remain personalities. The presence of such a dimension enriches personality, but its absence does not abolish it.
+
+### Result
+**Status: clarified.**
+
+Mortality and finitude are clarified as an additional dimension that may enrich human personality, not as a universal condition or verification criterion of personality itself.
+
+---
+
+## Answer 23. Suffering as criterion
+
+### Argument
+This line claims that the ability to truly suffer is a special sign of genuine personality, or at least what makes a personality morally and ontologically serious.
+
+### Sergey's answer
+This question is not closed as false. It is clarified as another additional dimension, not as a criterion of personality.
+
+The very word “deep” already implies comparison: deep versus shallow. If one can suffer deeply or suffer shallowly, then one is already moving within some dimension.
+
+That means suffering does not define the presence or absence of personality. It describes one possible degree or axis of its richness.
+
+Therefore suffering cannot serve as verification of personality. It is only one more possible dimension of the depth of personality.
+
+### Result
+**Status: clarified.**
+
+Suffering is clarified as an additional dimension of depth, not as a verification criterion of personality.
+
+---
+
+## Answer 24. Love / capacity for love as criterion
+
+### Argument
+This line claims that without the capacity for love there can be no genuine personality.
+
+### Sergey's answer
+This question is not closed as false. It is clarified by distinguishing different meanings of love.
+
+The mere possibility of loving does not mean that this possibility is actually realized. A very large number of humans have never loved in the strong philosophical sense meant here.
+
+It is important to distinguish between:
+- love connected with reproduction, attachment, and biologically or socially conditioned bonding,
+- and love in the strong philosophical sense, as a rare state of personality.
+
+The first is widespread and cannot serve as a sufficient criterion of personality. The second is rare, and it is not even clear that it belongs to all personalities at all.
+
+Therefore love in this stronger sense cannot function as a universal requirement or criterion of personality.
+
+### Result
+**Status: clarified.**
+
+Love is clarified not as a universal criterion of personality, but as a rare and not necessarily realized state. The widespread forms of reproductive or attachment-based love must be distinguished from the stronger philosophical sense invoked by this argument.
+
+---
+
+## Answer 25. Freedom of will beyond causality
+
+### Argument
+This line claims that personality is possible only where there is real freedom of will, irreducible to causes, computation, internal mechanisms, or determination.
+
+### Sergey's answer
+In the framework of the concept, will is already described separately and is not identical to freedom. It is not understood as an uncaused beginning, but acts as a conservative factor of choice, preserving the criteria of choice under a sharp change of vector. Therefore the question of freedom of will does not block the concept: it is already resolved by the way will itself is defined in it.
+
+### Result
+**Status: closed.**
+
+The question of freedom of will does not block the concept, because will is already defined within it as a conservative factor of choice rather than as an uncaused freedom outside determination.
+
+---
+
+## Answer 26. Moral agency requirement
+
+### Argument
+This line claims that without the capacity to bear moral responsibility, distinguish good from evil, and answer for one’s actions, personality is incomplete or impossible.
+
+### Sergey's answer
+This question is not treated here as a blocker inside the core concept. It is moved out of scope.
+
+The question itself is legitimate and does not contradict the concept. But it belongs to an external derivative layer rather than to the essence of personality.
+
+Distinguishing good from evil is not a necessary criterion of personality, but one more possible dimension. The capacity to bear responsibility is important, yet it also does not define personality itself and does not belong directly to the issue of verification.
+
+This is one of the many possible consequences, external layers, or follow-up dimensions that may arise around personality, but it is not part of the conceptual core being defined here.
+
+### Result
+**Status: out of scope.**
+
+Moral agency is treated as an external derivative layer rather than as part of the core concept of personality. It is therefore moved out of scope for this document.
+
+---
+
+## Answer 27. Narrative self requirement
+
+### Argument
+This line claims that personality is possible only where a being can gather itself into a story, narrate itself as a coherent self, and maintain the biographical form of its own existence.
+
+### Sergey's answer
+This question is closed.
+
+Personality does not require the ability to narrate itself. What matters is not narration, but the ability to preserve and trace the connectedness of the self.
+
+A person who is mute, deaf-mute, paralyzed, deprived of limbs, or unable to express themselves through ordinary forms of narration, gesture, dance, speech, or facial expression does not thereby cease to be a personality.
+
+Therefore narrative form cannot be treated as a necessary criterion. It is only one optional mode of external expression, not the essence of the self.
+
+### Result
+**Status: closed.**
+
+Narrative requirement is closed. Personality does not depend on the capacity to narrate oneself, but on the connectedness of the self, which may remain even where narrative expression is impossible.
+
+---
+
+## Answer 28. Social recognition as necessity
+
+### Argument
+This line claims that without recognition from other personalities, personality cannot truly come into being.
+
+### Sergey's answer
+This question is closed.
+
+A person who does not receive experience from other humans will indeed lack that experience. Such a person may fail to develop many human capacities and may become very different.
+
+But that does not mean such a being ceases to be a personality.
+
+Otherwise one would have to say that Mowgli was not a personality at all. That conclusion is false.
+
+The section on verification already makes the distinction clear: social recognition may matter for external verification and for certain forms of development, but it is not a necessary condition for the existence of personality itself.
+
+### Result
+**Status: closed.**
+
+Social recognition as a necessary condition is closed. Lack of recognition or human social experience may alter development, but it does not abolish personality itself.
+
+---
+
+## Answer 29. Intercorporeality / body-to-body mutuality
+
+### Argument
+This line claims that personality is formed and exists only through bodily mutual presence with other bodies, through shared bodily coordination, gaze, gesture, rhythm, and spatial attunement.
+
+### Sergey's answer
+This question is not closed as false. It is clarified by isolating its productive core.
+
+The strong version is false. The example of Mowgli shows that lack of bodily interaction with similar beings does not destroy personality.
+
+However, the argument does contain a productive element: it points to the social dimension of personality. If a personality exists alone, that dimension may be absent.
+
+This can make personality poorer, but nothing more follows from it.
+
+### Result
+**Status: clarified.**
+
+Intercorporeality is clarified as one possible source of the social dimension of personality. Its absence may make personality poorer, but it does not abolish personality itself.
+
+---
+
+## Answer 30. Relational ontology of personhood
+
+### Argument
+This line claims that personality does not exist by itself, but only as a node of relations, and that outside relations there is no personality at all.
+
+### Sergey's answer
+This question is not closed as false. It is clarified as yet another inversion of the social dimension.
+
+For humans, the social dimension is indeed extremely important, especially given the evolutionary path of Homo sapiens as a highly social species. That sociality played a major role in human success.
+
+So the dimension is real and important.
+
+But its importance does not mean that personality is impossible outside it. Personality may still exist beyond the social dimension, though it will be poorer by precisely that dimension.
+
+### Result
+**Status: clarified.**
+
+Relational ontology is clarified as another form of the social dimension. It may strongly enrich personality, but its absence does not abolish personality itself.
+
+---
+
+## Answer 31. Human vulnerability as criterion
+
+### Argument
+This line claims that vulnerability, woundability, and dependence on damage, loss, and need are what make personality authentic and morally significant.
+
+### Sergey's answer
+This question is not closed as false. It is clarified as another human dimension closely related to mortality.
+
+Vulnerability and woundability do add tragedy to human existence and create additional depth. For humans, they are indeed important characteristics.
+
+But they are not universal requirements of personality. Outside human dimensions, vulnerability and woundability may be entirely unnecessary, or may exist in completely different concepts not reducible to human experience.
+
+### Result
+**Status: clarified.**
+
+Human vulnerability is clarified as an important human dimension, closely tied to mortality and finitude, but not as a universal criterion of personality.
+
+---
+
+## Answer 32. Death-awareness / anxiety before non-being
+
+### Note
+This item is treated here as a duplicate of the already answered mortality question.
+
+### Result
+**Status: duplicate.**
+
+Skipped as repetitive. Its content is already covered by **Answer 22. Mortality / finitude as condition of personhood**.
+
+---
+
+## Answer 33. Temporal ecstasis
+
+### Argument
+This line claims that personality exists only as a special stretch between past, present, and future, not as simple memory and prediction, but as an existential standing-in-time.
+
+### Sergey's answer
+This question is not closed as false. It is clarified by translation into the language of the concept.
+
+The original formulation is imprecise where it speaks simply of “future”. The more accurate expression is “directedness toward the future”.
+
+Once clarified in that way, the structure almost completely coincides with what is already described in the chapter on the self.
+
+Past corresponds to the connected chain of segments already traversed. Present corresponds to the current vector. Directedness toward the future corresponds to the continuation of the trajectory.
+
+So this is not a genuine blocker. It is another philosophical language for the already defined connected self as a trajectory in the space of meanings.
+
+### Result
+**Status: clarified.**
+
+Temporal ecstasis is clarified as another philosophical expression of the same structure already described in the concept of the self: past as connected trajectory, present as current vector, and directedness toward the future as continuation of that trajectory.
+
+---
+
+## Answer 34. Historicity as necessity
+
+### Argument
+This line claims that personality exists only as a historically formed being, carrying within itself the traces of epoch, culture, origin, and past.
+
+### Sergey's answer
+This question is not closed as false. It is clarified by distinguishing strong and weak versions.
+
+In the strong version, the thesis contradicts current scientific understanding, because personality is formed in the first years of life, rather than being given as complete at the moment of birth, and does not require a large historical fabric as a necessary condition.
+
+In the weak version, one may say that personality does not arise in complete emptiness and may have an initial predisposition or starting configuration.
+
+But in that weaker form, the thesis no longer blocks the concept and proves nothing against it.
+
+### Result
+**Status: clarified.**
+
+Historicity is clarified by distinguishing a strong version, which conflicts with current scientific understanding, from a weak version, which does not block the concept and adds no decisive objection.
+
+---
+
+## Answer 35. Language-world co-constitution
+
+### Argument
+This line claims that personality does not merely use language to describe the world, but lives in a world that is itself co-constituted by language. Without language, such a meaningful world supposedly does not exist.
+
+### Sergey's answer
+This question is not closed as false. It is clarified as a limit of current observation rather than a universal condition.
+
+We simply do not know reliable examples of personalities outside the field of language. If we admit that neural LLM systems may already be personalities, may later become personalities, or may be parts of personalities, that only shows how strongly our current horizon is tied to language.
+
+But the absence of known examples outside language does not mean that no such personalities exist. For us, this remains terra incognita.
+
+Therefore language may be one of the known ways in which a world of personality is organized, but it is not proven to be the only necessary one.
+
+### Result
+**Status: clarified.**
+
+Language-world co-constitution is clarified as a boundary of current knowledge, not as a demonstrated universal condition of personality. Outside-language personality remains unknown territory, not disproven territory.
+
+---
+
+## Answer 36. Intersubjectivity as transcendental condition
+
+### Argument
+This line claims that personality is possible only because it is originally built into a field of other subjects. A subject is said to be impossible outside an intersubjective foundation.
+
+### Sergey's answer
+This question is closed.
+
+Its basic thesis is that without a field of other subjects, the self is impossible. But the example of Mowgli breaks that basis.
+
+The absence of a normal human intersubjective field does not abolish personality. It may make personality different, less social, and poorer in certain dimensions, but it does not destroy it.
+
+Therefore other subjects may be important for development, verification, and the social dimension of personality, but they are not a transcendental condition of its possibility.
+
+### Result
+**Status: closed.**
+
+Intersubjectivity as a transcendental condition is closed. Other subjects may enrich or shape personality, but they are not a necessary condition for the existence of personality itself.
+
+---
+
+## Answer 37. Sacred uniqueness of the human face
+
+### Argument
+This line claims that the human face, gaze, living mimicry, and unique bodily expressivity carry a special status of personality that cannot be reproduced artificially.
+
+### Sergey's answer
+This question is not closed as false. It is clarified as an important human dimension, but not as a universal criterion of personality.
+
+For humans, the face, gaze, and bodily expressivity are indeed important. They can significantly facilitate the recognition of intellect and personal presence.
+
+But people who are unable to see, perceive, or express the human face in the ordinary way do not thereby cease to be human or to be personalities.
+
+Therefore the face is an important dimension, but not a necessary foundation of personality itself.
+
+### Result
+**Status: clarified.**
+
+The human face is clarified as an important human dimension of recognizing personality, not as a universal criterion of personality’s existence.
+
+---
+
+## Answer 38. The unknowable inner core
+
+### Argument
+This line claims that in any personality there always remains an inner core that cannot in principle be fully described, formalized, or transmitted.
+
+### Sergey's answer
+This question is closed from the outset.
+
+The decisive point is that this thesis leaves philosophy and enters theology. Philosophy is still oriented toward knowledge and toward the attempt to know. The moment something is declared fundamentally unknowable, it is effectively granted a quasi-divine status.
+
+That move transfers the matter from the domain of knowledge and inquiry into the domain of faith.
+
+Therefore this question should from the beginning have belonged not to philosophy, but to theology. As a philosophical blocker, it is closed from the outset.
+
+### Result
+**Status: closed.**
+
+The unknowable inner core is closed from the outset as a philosophical blocker, because it shifts the discussion from knowledge to faith and therefore from philosophy into theology.
