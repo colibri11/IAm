@@ -9,6 +9,10 @@ date-released: "2026-05-05"
 version: "1.0"
 license: CC-BY-4.0
 repository-code: "https://github.com/colibri11/IAm"
+identifiers:
+  - type: doi
+    value: 10.17605/OSF.IO/YK7N3
+    description: "Persistent identifier (OSF / DataCite)"
 type: software
 preferred-citation:
   type: book
@@ -19,3 +23,4 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0005-0818-4400"
   year: 2026
   url: "https://github.com/colibri11/IAm"
+  doi: "10.17605/OSF.IO/YK7N3"

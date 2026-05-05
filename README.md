@@ -1,10 +1,14 @@
 # IAm
 
+[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FYK7N3-blue)](https://doi.org/10.17605/OSF.IO/YK7N3)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](./LICENSE)
+
 **Я есть. Я личность.**
 **Концепция личности как функциональной архитектуры**
 
 Автор: Сергей Омаров ([ORCID 0009-0005-0818-4400](https://orcid.org/0009-0005-0818-4400))
 Год: 2026
+DOI: [10.17605/OSF.IO/YK7N3](https://doi.org/10.17605/OSF.IO/YK7N3)
 Лицензия: [CC BY 4.0](./LICENSE)
 
 ## Состав репозитория
