@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "I Am. I Am a Personality."
+authors:
+  - family-names: "Omarov"
+    given-names: "Sergey"
+    orcid: "https://orcid.org/0009-0005-0818-4400"
+date-released: "2026-05-05"
+version: "1.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/colibri11/IAm"
+type: software
+preferred-citation:
+  type: book
+  title: "I Am. I Am a Personality.: Personality as Functional Architecture"
+  authors:
+    - family-names: "Omarov"
+      given-names: "Sergey"
+      orcid: "https://orcid.org/0009-0005-0818-4400"
+  year: 2026
+  url: "https://github.com/colibri11/IAm"

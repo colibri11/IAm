@@ -3,13 +3,25 @@
 **Я есть. Я личность.**
 **Концепция личности как функциональной архитектуры**
 
-Автор: Сергей Омаров
+Автор: Сергей Омаров ([ORCID 0009-0005-0818-4400](https://orcid.org/0009-0005-0818-4400))
 Год: 2026
+Лицензия: [CC BY 4.0](./LICENSE)
 
 ## Состав репозитория
 
+Источники (Markdown):
+
 - `IAmBook.md` — главный документ. Трактат «Я есть. Я личность.».
+- `IAmBook_EN.md` — английский перевод трактата.
 - `IAmReductionGeometry.md` — надтеоретическая рамка геометрии редукции. Стоит рядом с трактатом, не входит в него.
+- `IAmReductionGeometry_EN.md` — английский перевод геометрии редукции.
+
+Готовые PDF (`dist/`):
+
+- `dist/IAmBook_ru.pdf`, `dist/IAmBook_en.pdf` — трактат, RU и EN.
+- `dist/IAmReductionGeometry_ru.pdf`, `dist/IAmReductionGeometry_en.pdf` — геометрия редукции, RU и EN.
+
+Сборка PDF из Markdown: `bash build/build.sh` (требуется pandoc + XeLaTeX).
 
 ## О трактате
 
