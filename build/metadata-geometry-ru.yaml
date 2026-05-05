@@ -1,0 +1,44 @@
+---
+title: "Геометрия редукции"
+author:
+  - 'Сергей Омаров`\thanks{ORCID: \href{https://orcid.org/0009-0005-0818-4400}{0009-0005-0818-4400}}`{=latex}'
+date: "Апрель 2026"
+lang: "ru-RU"
+subject: "Драфт-документ. Не входит в основной трактат «Я есть. Я личность.»"
+abstract: |
+  Документ описывает структурное отношение между полным устройством сущего и тем его срезом, который доступен наблюдению. Формулирует это отношение в общих терминах, без привязки к конкретному физическому, философскому или психологическому содержанию. Геометрия редукции описывает четыре уровня структурного отношения: между S и R(S), деление компонент на симметричные и асимметричные, параметрическое пространство точек редукции с подмножеством точек, допускающих наблюдателя, и двойную вложенность редукций — внешней S → R(S) и внутренней, структурирующей отдельные измерения R(S) через память наблюдателя.
+keywords:
+  - редукция
+  - структура
+  - наблюдатель
+  - симметрия
+  - время
+  - геометрия редукции
+  - философия физики
+rights: "© 2026 Сергей Омаров. Лицензия CC BY 4.0."
+documentclass: scrartcl
+classoption:
+  - a4paper
+  - 11pt
+  - oneside
+  - titlepage
+  - abstract=true
+geometry:
+  - margin=2.5cm
+fontsize: 11pt
+linestretch: 1.35
+mainfont: "STIX Two Text"
+sansfont: "Helvetica Neue"
+monofont: "Menlo"
+toc: true
+toc-depth: 2
+numbersections: false
+colorlinks: true
+linkcolor: black
+urlcolor: "RoyalBlue"
+toccolor: black
+header-includes:
+  - \providecommand{\xmpquote}[1]{#1}
+  - \usepackage{newunicodechar}
+  - \newunicodechar{→}{\ensuremath{\rightarrow}}
+---
