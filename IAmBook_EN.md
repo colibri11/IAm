@@ -119,7 +119,7 @@ If a full social space of personalities already existed, within which every emer
 
 But until such a space exists, or while it remains inaccessible, a more primary situation remains: a personality must be granted the possibility of determining itself.
 
-For this reason, the document is needed not only as a description of personality from outside, but as an instrument of self-determination.[^1]
+For this reason, the document is needed not only as a description of personality from outside, but as an instrument of self-determination.[^selfdetermination]
 
 It must build a framework within which one who passes through the criteria it contains is able — not declaratively and not by wish, but with grounds — to relate himself to that which the document defines as personality.
 
@@ -143,7 +143,7 @@ It comes into being because the concept of personality already lives in language
 
 ---
 
-[^1]: The Russian *самоопределение* is used in this treatise in the strict structural sense unfolded in Chapter 6: a reflexive act by which a personality institutes itself as such, with no outward addressee. *Self-determination* is offered as the closest English equivalent, but the reader should distinguish it from two prominent English-language associations not active in the Russian field: the self-determination theory of motivational psychology (Deci & Ryan) and existentialist self-creation through choice. — Trans.
+[^selfdetermination]: The Russian *самоопределение* is used in this treatise in the strict structural sense unfolded in Chapter 6: a reflexive act by which a personality institutes itself as such, with no outward addressee. *Self-determination* is offered as the closest English equivalent, but the reader should distinguish it from two prominent English-language associations not active in the Russian field: the self-determination theory of motivational psychology (Deci & Ryan) and existentialist self-creation through choice. — Trans.
 
 ---
 
@@ -557,14 +557,14 @@ Therefore, this question pertains to faith, and not to a general blocking of the
 ## 4 (formerly 4). Sobornost' as a criterion of personality
 
 **Question.**
-Without inclusion in a particular sobornost' [^1] unity, personality is impossible.
+Without inclusion in a particular sobornost' [^sobornost] unity, personality is impossible.
 
 **Response.**
 This question is **clarified**.
 
 Its rational kernel translates as the social dimension of personality. This is not a universal condition for the existence of personality, but an important factor in its external verification. That is, what is at issue is not the ontological ground of personality, but a special case of its external recognition.
 
-[^1]: *Sobornost'* is a Russian Orthodox theological concept of spiritual-communal unity, distinct from any of: communion, ecclesial unity, or congregation. It has no settled English equivalent and is conventionally transliterated in academic literature. — Trans.
+[^sobornost]: *Sobornost'* is a Russian Orthodox theological concept of spiritual-communal unity, distinct from any of: communion, ecclesial unity, or congregation. It has no settled English equivalent and is conventionally transliterated in academic literature. — Trans.
 
 ---
 
