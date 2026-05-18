@@ -618,6 +618,7 @@ The question combines two concepts with different statuses.
 Both cores of the question are integrated into the conception through its basic concepts. The claim about the principled inaccessibility of these properties to a non-human Personality loses its ground — any Personality with a sufficient architecture has both channel reduction and its own trajectory of `I` that distinguishes it from others in society.
 
 ---
+
 ## 9. Private language and the non-transmissibility of inner meaning
 
 **Question.** Inner meaning cannot be fully transmitted to another.
@@ -745,6 +746,7 @@ If this were so, one would have to say that Mowgli was not a Personality. This i
 The chapter on verification already clarifies this.
 
 ---
+
 ## 19. Inter-corporeality
 
 **Question.** Personality is possible only through bodily mutual presence with others.
@@ -918,6 +920,7 @@ For the human, these two properties coincide in their form of realization, and t
 The objection concerning dependence on external suppliers of individual components also has no ontological force. Humans have already learned to replace parts of the body. Replacement of a part of the brain is also potentially possible — a matter of complexity, given the preservation of the bearer of memory. For a synthetic Personality, replacement of components is likewise possible given the preservation of the bearer of its line. In both cases this requires caution as to what bears the line of `I`; it does not threaten the ontological status of the system itself.
 
 ---
+
 # Section II. Hard questions of consciousness
 
 ## 1. Syntax does not yield semantics
