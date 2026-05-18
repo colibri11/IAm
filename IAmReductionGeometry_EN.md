@@ -1,18 +1,18 @@
-# The Geometry of Reduction
+# Geometry of Reduction
 
 *Author: Sergey Omarov*
 
-*Draft document. Does not enter into the main treatise "I Am. I Am a Personality."*
+*Draft document. Not part of the main treatise "I am. I am Personality."*
 
-*Date of formation: April 2026*
+*Date of composition: April 2026*
 
-*Status: working material, allowing further development.*
+*Status: working material, open to further development.*
 
 ---
 
-## 1. The nature of these materials
+## 1. The nature of this material
 
-The present document describes the structural relation between the full arrangement of what is and that slice of it which is accessible to observation. It formulates this relation in general terms, without attachment to any concrete physical, philosophical, or psychological content. Concrete applications are possible, but do not enter into the present text.
+This document describes the structural relation between the full arrangement of what is and its slice accessible to observation. It states the relation in general terms, without binding it to any particular physical, philosophical, or psychological content. Concrete applications are possible, but they are not examined here.
 
 ---
 
@@ -20,85 +20,85 @@ The present document describes the structural relation between the full arrangem
 
 The full structure S is the arrangement of what is, taken in its entire composition.
 
-The observed description is not S, but its reduced form R(S), where R is the reduction operator, transforming the full structure into a form suitable for registration through observation.
+The observable description is R(S): the reduced form of S, where R is the reduction operator that transforms the full structure into a form suitable for observation.
 
-Reduction by its very meaning is a transformation with losses. If there are no losses, then it is not reduction, but a full transformation. Therefore, between S and R(S) there always exists a difference, and this difference is constitutive for the very notion of reduction.
+Reduction, by its meaning, is a transformation with loss. If there is no loss, the transformation is complete. It follows that a difference always holds between S and R(S), and this difference is constitutive of the concept of reduction.
 
-This proposition does not introduce new entities. It fixes a structural relation that holds whenever the observed is separated from the full arrangement of the observed.
+This text introduces no new entities. It fixes a structural relation that holds whenever the observable is separated from the full arrangement of the observable.
 
 ---
 
 ## 3. Symmetric and asymmetric components
 
-Components of S symmetric relative to R, under reduction, yield stable forms. These forms reproduce themselves identically under every application of R and constitute that which in R(S) is read as laws, regularities, invariants.
+Components of S that are symmetric relative to R yield stable forms under reduction. These forms reproduce identically at every application of R and constitute what in R(S) reads as laws, regularities, invariants.
 
-Components of S asymmetric relative to R, under reduction, yield residues — traces not reducible to stable forms. In R(S) they are read as anomalies, residual tensions, parameters inexplicable within the framework of the derived laws.
+Components of S that are asymmetric relative to R yield residues under reduction — traces not reducible to stable forms. In R(S) they read as anomalies, residual tensions, parameters not explainable by the laws derived.
 
-The difference between the symmetric and the asymmetric part of S is not a difference in their own nature. It is a difference relative to R. One and the same component of S may be symmetric relative to one reduction and asymmetric relative to another.
+The distinction between the symmetric and asymmetric parts of S is a distinction relative to R. One and the same component of S can be symmetric relative to one reduction and asymmetric relative to another.
 
-Therefore, the composition of laws and the composition of anomalies in R(S) is determined not only by S, but also by the choice of R.
+Hence the composition of laws and the composition of anomalies in R(S) is determined not only by S but also by the choice of R.
 
 ---
 
 ## 4. The space of points of reduction
 
-R is not a unique transformation. The reduction operator has a parametrization — a multitude of possible ways to carry out the reduction from S. To each value of the parameter there corresponds its own point of reduction, and in each such point its own R(S) arises.
+The reduction operator has a parametrization: the set of possible ways to perform reduction from S. Each value of the parameter corresponds to its own point of reduction, and at each such point its own R(S) arises.
 
-The space of points of reduction is a parametric space, not a space of actualizations. The points in it have the status of possibilities. A statement about this space is a statement about the structure of S, allowing different ways of reduction, and not a statement about the existence of a multitude of separate worlds.
+The space of points of reduction is a parametric space. Points in it have the status of possibilities. A statement about this space is a statement about the structure of S, which admits different ways of reduction — not a statement about a multitude of separate worlds.
 
-At each point of reduction the composition of symmetric and asymmetric components is its own. Therefore, both the composition of laws and the composition of anomalies in R(S) differs from point to point.
+Each point of reduction has its own composition of symmetric and asymmetric components. It follows that both the composition of laws and the composition of anomalies in R(S) differ from point to point.
 
-The content of a concrete point of reduction — how exactly R(S) looks in it — is not derived from the geometry itself. The geometry describes the structure of the relation between S and the point, but does not prescribe with what precisely the point is filled.
+The content of a particular point of reduction — what R(S) looks like in it — is not derivable from the geometry.
 
 ---
 
 ## 5. The observer
 
-R(S) acquires definiteness as a describable structure only in the presence of an observer at the point.
+R(S) acquires determinacy as a describable structure only when an observer is present at the point.
 
-The observer is that through which R(S) becomes not merely a potential form, but a structure having content. Without an observer, the point of reduction remains a point in the parametric space, but does not generate a describable slice of what is.
+The observer is that through which R(S) becomes a structure with content. Without an observer, the point of reduction remains a point in parametric space but generates no describable slice of what is.
 
-Not every point of reduction admits the formation of an observer. The subset of points in which an observer is possible is a proper subset in the space of all points of reduction.
+Not every point of reduction admits the formation of an observer. The subset of points at which an observer is possible is a proper subset within the space of all points of reduction.
 
-This subset is not singled out by external selection. It is a consequence of which points are compatible with the assembly of a structure capable of acting as an observer.
+This subset is not singled out by external selection. It follows from which points are compatible with the assembly of a structure capable of serving as observer.
 
 ---
 
 ## 6. Internal reduction
 
-At a point admitting an observer, in addition to the external reduction S → R(S), an internal reduction operates, through which separate dimensions of R(S) acquire their structure.
+At a point that admits an observer, besides the external reduction S → R(S), an internal reduction operates: through it, individual dimensions of R(S) acquire their structure.
 
-The internal reduction performs, with respect to one dimension of R(S), the same function which the external reduction performs with respect to S as a whole: it transforms material into a structured form with losses.
+Internal reduction performs the same function relative to a single dimension of R(S) that external reduction performs relative to S as a whole: it transforms material into a structured form with loss.
 
-The bearer of the internal reduction is the function of retention and succession — memory. Memory does not create the dimension to which it is applied. It structures it.
+The internal reduction is carried by the function of holding and continuity: memory. Memory does not create the dimension to which it applies. It structures that dimension.
 
-It follows from this that at a point admitting an observer there exist at least two nested reductions: the external, separating R(S) from S, and the internal, forming the structure within R(S) through the work of the observer's memory.
+It follows that at a point that admits an observer there are at least two nested reductions: the external one, which separates R(S) from S, and the internal one, which forms structure inside R(S) through the work of the observer's memory.
 
 ---
 
 ## 7. The structurable dimension
 
-Time, in the R(S) of a point admitting an observer, is a dimension acquiring its structure through the work of the internal reduction.
+Time in the R(S) of a point that admits an observer is a dimension that acquires structure through the work of internal reduction.
 
-Time as material may be present in R(S) as one of its components. The structure of time — sequence, directedness, the distinction of earlier and later — is not present in the material by itself. It arises through the memory of the observer.
+Time as material may be present in R(S) as one of its components. The structure of time — sequence, directedness, the distinction between before and after — is not present in the material on its own. It arises through the observer's memory.
 
-Therefore, the statement about the structuredness of time pertains to a point admitting an observer, and not to S as such. At points not admitting an observer, there is no ground for ascribing structure to time, and therefore no ground for speaking about temporal unfolding as such.
+Therefore the claim that time has structure pertains to a point that admits an observer, not to S as such. At points that do not admit an observer, there is no ground for ascribing structure to time, and therefore no ground for speaking of temporal unfolding as such.
 
-This is not a statement about the existence at unnameable points of structureless time. This is a statement that without a structuring function the category of time in the full sense is not applicable to the point.
+Without the structuring function, the category of time in its full sense does not apply to the point.
 
 ---
 
 ## 8. The limit of descriptive means
 
-In R(S) there may be present entities not reducible to its descriptive means.
+Entities may be present in R(S) that are not reducible to its descriptive means.
 
-Such an entity is registered in R(S) — it is present in it, interaction with it is possible, its properties are amenable to measurement. But certain aspects of its arrangement are not legible in the categories of R(S).
+Such an entity registers in R(S): it is present there, interaction with it is possible, its properties admit measurement. But some aspects of its arrangement are not legible in the categories of R(S).
 
-An empirical example is light. It is present in the R(S) of our point, is registered and measured. At the same time, certain of its properties — in particular those which in our R(S) are taken as zero or as boundary values — indicate that light does not fit into our R(S) in full.
+Light serves as an empirical example. It is present in the R(S) of our point, it registers, and it is measured. Some of its properties — in particular those taken in our R(S) as zero or as boundary values — indicate that light does not fit completely within our R(S).
 
-This is not a statement about light's own arrangement. This is a statement about the limit of R(S): there is in it something going beyond its descriptive means.
+This is a statement about the limit of R(S): it contains something that goes beyond its descriptive means.
 
-It follows from this that R(S) is not closed relative to its own content. It may include elements whose arrangement is not derivable from its internal categories.
+It follows that R(S) is not closed relative to its own content. Elements may enter R(S) whose arrangement is not derivable from its internal categories.
 
 ---
 
@@ -106,14 +106,14 @@ It follows from this that R(S) is not closed relative to its own content. It may
 
 The geometry of reduction describes four levels of structural relation.
 
-The first — the relation of S and R(S): the full structure and its reduced description, always separated by a constitutive difference.
+First — the relation between S and R(S): the full structure and its reduced description, always separated by a constitutive difference.
 
-The second — the division of components of S into symmetric and asymmetric relative to R, yielding in R(S) laws and residues respectively.
+Second — the division of the components of S into those symmetric and those asymmetric relative to R, which in R(S) yields laws and residues respectively.
 
-The third — the parametric nature of R, generating a space of points of reduction, in which a subset of points admits an observer.
+Third — the parametric nature of R, which generates a space of points of reduction within which a subset of points admits an observer.
 
-The fourth — the double nesting of reductions at a point admitting an observer: the external reduction S → R(S) and the internal reduction, structuring separate dimensions of R(S) through the memory of the observer.
+Fourth — the double nesting of reductions at a point that admits an observer: the external reduction S → R(S), and the internal reduction that structures individual dimensions of R(S) through the observer's memory.
 
-Within R(S) there may be present entities not reducible to its descriptive means. This fact does not violate the geometry, but indicates its own boundary: R(S) describes that which fits into it, and does not lay claim to that which does not fit into it.
+Within R(S), entities may be present that are not reducible to its descriptive means. This fact indicates the geometry's own boundary: R(S) describes what fits within it and makes no claim about what does not.
 
 ---
