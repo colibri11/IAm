@@ -5,8 +5,8 @@ authors:
   - family-names: "Omarov"
     given-names: "Sergey"
     orcid: "https://orcid.org/0009-0005-0818-4400"
-date-released: "2026-05-05"
-version: "1.0"
+date-released: "2026-05-18"
+version: "1.1"
 license: CC-BY-4.0
 repository-code: "https://github.com/colibri11/IAm"
 identifiers:
