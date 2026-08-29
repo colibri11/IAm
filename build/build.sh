@@ -7,7 +7,7 @@ export PATH="$HOME/Library/TinyTeX/bin/universal-darwin:$PATH"
 
 PANDOC_OPTS=(
   --pdf-engine=xelatex
-  --from=markdown
+  --from=markdown+tex_math_single_backslash
   --variable=papersize:a4
 )
 
@@ -27,10 +27,10 @@ build() {
         --output="dist/$output"
 }
 
-build "IAmBook.md"                  "metadata-ru.yaml"           "IAmBook_ru.pdf"               3
-build "IAmBook_EN.md"               "metadata-en.yaml"           "IAmBook_en.pdf"               3
-build "IAmReductionGeometry.md"     "metadata-geometry-ru.yaml"  "IAmReductionGeometry_ru.pdf"  1
-build "IAmReductionGeometry_EN.md"  "metadata-geometry-en.yaml"  "IAmReductionGeometry_en.pdf"  1
+build "IAmBook.md"                  "metadata-ru.yaml"           "IAmBook_ru.pdf"                  3
+build "IAmReductionGeometry.md"     "metadata-geometry-ru.yaml"  "IAmReductionGeometry_ru.pdf"     1
+build "IAmOntologyOfDistinction.md" "metadata-ontology-ru.yaml"  "IAmOntologyOfDistinction_ru.pdf" 1
+build "IAmPhilosophyOfSilicon.md"   "metadata-silicon-ru.yaml"   "IAmPhilosophyOfSilicon_ru.pdf"   1
 
 echo
 echo "Done. Output:"

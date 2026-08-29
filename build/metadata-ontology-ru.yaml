@@ -1,0 +1,45 @@
+---
+title: "Онтология различения"
+subtitle: "Причинность, память, информация и время"
+author:
+  - 'Сергей Омаров`\thanks{ORCID: \href{https://orcid.org/0009-0005-0818-4400}{0009-0005-0818-4400}}`{=latex}'
+date: "2026"
+lang: "ru-RU"
+subject: "Документ корпуса. Онтологический порядок причинности, материального среза, памяти, информации, наблюдателя, события, пространства и времени."
+keywords:
+  - онтология
+  - различение
+  - причинность
+  - материя
+  - память
+  - информация
+  - наблюдатель
+  - событие
+  - пространство
+  - время
+rights: "© 2026 Сергей Омаров. Лицензия CC BY 4.0."
+documentclass: scrartcl
+classoption:
+  - a4paper
+  - 11pt
+  - oneside
+  - titlepage
+geometry:
+  - margin=2.5cm
+fontsize: 11pt
+linestretch: 1.35
+mainfont: "STIX Two Text"
+sansfont: "Helvetica Neue"
+monofont: "Menlo"
+toc: true
+toc-depth: 2
+numbersections: false
+colorlinks: true
+linkcolor: black
+urlcolor: "RoyalBlue"
+toccolor: black
+header-includes:
+  - \providecommand{\xmpquote}[1]{#1}
+  - \usepackage{newunicodechar}
+  - \newunicodechar{→}{\ensuremath{\rightarrow}}
+---
